@@ -1,0 +1,2284 @@
+{
+    "12223": {
+        "Ratnagiri": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "02:50",
+            "departure": "02:55",
+            "day": "2"
+        },
+        "Madgaon": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "07:10",
+            "departure": "07:20",
+            "day": "2"
+        },
+        "Mangalore": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "12:10",
+            "departure": "12:20",
+            "day": "2"
+        },
+        "kozhikkode": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "15:23",
+            "departure": "15:25",
+            "day": "2"
+        },
+        "Ernakulam": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "20:15",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "02202": {
+        "Kharagpur": {
+            "days": [
+                "Tu",
+                "Th",
+                "Sa"
+            ],
+            "arrival": "01:10",
+            "departure": "01:15",
+            "day": "2"
+        },
+        "Kolkata": {
+            "days": [
+                "Tu",
+                "Th",
+                "Sa"
+            ],
+            "arrival": "04:15",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "02245": {
+        "Bhubaneswar": {
+            "days": [
+                "Tu",
+                "W",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "16:50",
+            "departure": "17:00",
+            "day": "1"
+        },
+        "Vijayawada": {
+            "days": [
+                "Tu",
+                "W",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "04:20",
+            "departure": "04:25",
+            "day": "2"
+        },
+        "Renigunta": {
+            "days": [
+                "Tu",
+                "W",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "10:10",
+            "departure": "10:15",
+            "day": "2"
+        },
+        "Bengaluru": {
+            "days": [
+                "Tu",
+                "W",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "16:00",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12298": {
+        "Lonavla": {
+            "days": [
+                "M",
+                "Th",
+                "Sa"
+            ],
+            "arrival": "22:18",
+            "departure": "22:20",
+            "day": "1"
+        },
+        "Mumbai": {
+            "days": [
+                "M",
+                "Th",
+                "Sa"
+            ],
+            "arrival": "00:40",
+            "departure": "00:45",
+            "day": "2"
+        },
+        "Ahmedabad": {
+            "days": [
+                "M",
+                "Th",
+                "Sa"
+            ],
+            "arrival": "06:30",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12268": {
+        "Surendranagar": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "20:38",
+            "departure": "20:47",
+            "day": "1"
+        },
+        "Ahmedabad": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "23:15",
+            "departure": "23:36",
+            "day": "1"
+        },
+        "Mumbai": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "06:00",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "22203": {
+        "Vijayawada": {
+            "days": [
+                "Tu",
+                "Th",
+                "Su"
+            ],
+            "arrival": "00:40",
+            "departure": "00:55",
+            "day": "2"
+        },
+        "Secunderabad": {
+            "days": [
+                "Tu",
+                "Th",
+                "Su"
+            ],
+            "arrival": "06:15",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "02284": {
+        "Kota": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "02:55",
+            "departure": "03:05",
+            "day": "2"
+        },
+        "Ratlam": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "07:05",
+            "departure": "07:10",
+            "day": "2"
+        },
+        "vadodara": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "11:01",
+            "departure": "11:20",
+            "day": "2"
+        },
+        "Mumbai": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "17:56",
+            "departure": "18:00",
+            "day": "2"
+        },
+        "Ratnagiri": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "23:20",
+            "departure": "23:25",
+            "day": "2"
+        },
+        "Madgaon": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "04:25",
+            "departure": "04:35",
+            "day": "3"
+        },
+        "Mangalore": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "10:15",
+            "departure": "10:25",
+            "day": "3"
+        },
+        "Kozhikkode": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "13:27",
+            "departure": "13:31",
+            "day": "3"
+        },
+        "Ernakulam": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "18:20",
+            "departure": "--",
+            "day": "3"
+        }
+    },
+    "12259": {
+        "Dhanbad": {
+            "days": [
+                "M",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "21:52",
+            "departure": "21:56",
+            "day": "1"
+        },
+        "Varanasi": {
+            "days": [
+                "M",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "02:20",
+            "departure": "02:30",
+            "day": "2"
+        },
+        "Kanpur": {
+            "days": [
+                "M",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "06:25",
+            "departure": "06:30",
+            "day": "2"
+        },
+        "New Delhi": {
+            "days": [
+                "M",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "11:31",
+            "departure": "11:45",
+            "day": "2"
+        },
+        "Loharu": {
+            "days": [
+                "M",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "14:23",
+            "departure": "14:26",
+            "day": "2"
+        },
+        "Sadulpur": {
+            "days": [
+                "M",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "15:03",
+            "departure": "15:06",
+            "day": "2"
+        },
+        "Churu": {
+            "days": [
+                "M",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "16:06",
+            "departure": "16:08",
+            "day": "2"
+        },
+        "Ratangarh": {
+            "days": [
+                "M",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "17:00",
+            "departure": "17:02",
+            "day": "2"
+        },
+        "Sri Dungargarah": {
+            "days": [
+                "M",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "17:47",
+            "departure": "17:48",
+            "day": "2"
+        },
+        "Bikaner": {
+            "days": [
+                "M",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "19:15",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12293": {
+        "Igatpuri": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "19:25",
+            "departure": "19:31",
+            "day": "1"
+        },
+        "Bhusaval": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "23:00",
+            "departure": "23:06",
+            "day": "1"
+        },
+        "Jabalpur": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "05:50",
+            "departure": "06:00",
+            "day": "2"
+        },
+        "Satna": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "08:31",
+            "departure": "08:40",
+            "day": "2"
+        },
+        "Prayagraj": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "12:45",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12221": {
+        "Daund": {
+            "days": [
+                "M",
+                "Sa"
+            ],
+            "arrival": "16:20",
+            "departure": "16:36",
+            "day": "1"
+        },
+        "Manmad": {
+            "days": [
+                "M",
+                "Sa"
+            ],
+            "arrival": "20:31",
+            "departure": "20:33",
+            "day": "1"
+        },
+        "Bhusaval": {
+            "days": [
+                "M",
+                "Sa"
+            ],
+            "arrival": "22:40",
+            "departure": "22:45",
+            "day": "1"
+        },
+        "Nagpur": {
+            "days": [
+                "M",
+                "Sa"
+            ],
+            "arrival": "04:10",
+            "departure": "04:15",
+            "day": "2"
+        },
+        "Bilaspur": {
+            "days": [
+                "M",
+                "Sa"
+            ],
+            "arrival": "09:56",
+            "departure": "10:06",
+            "day": "2"
+        },
+        "Tatanagar": {
+            "days": [
+                "M",
+                "Sa"
+            ],
+            "arrival": "15:56",
+            "departure": "16:06",
+            "day": "2"
+        },
+        "Kolkata": {
+            "days": [
+                "M",
+                "Sa"
+            ],
+            "arrival": "19:50",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12282": {
+        "Kanpur": {
+            "days": [
+                "Th"
+            ],
+            "arrival": "17:48",
+            "departure": "17:54",
+            "day": "1"
+        },
+        "Varanasi": {
+            "days": [
+                "Th"
+            ],
+            "arrival": "21:50",
+            "departure": "22:00",
+            "day": "1"
+        },
+        "Adra": {
+            "days": [
+                "Th"
+            ],
+            "arrival": "03:40",
+            "departure": "03:50",
+            "day": "2"
+        },
+        "Balasore": {
+            "days": [
+                "Th"
+            ],
+            "arrival": "07:33",
+            "departure": "07:38",
+            "day": "2"
+        },
+        "Bhubaneswar": {
+            "days": [
+                "Th"
+            ],
+            "arrival": "11:15",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "02283": {
+        "Kozhikkode": {
+            "days": [
+                "Tu"
+            ],
+            "arrival": "02:47",
+            "departure": "02:50",
+            "day": "2"
+        },
+        "Mangalore": {
+            "days": [
+                "Tu"
+            ],
+            "arrival": "06:10",
+            "departure": "06:20",
+            "day": "2"
+        },
+        "Madgaon": {
+            "days": [
+                "Tu"
+            ],
+            "arrival": "12:50",
+            "departure": "13:00",
+            "day": "2"
+        },
+        "Ratnagiri": {
+            "days": [
+                "Tu"
+            ],
+            "arrival": "17:11",
+            "departure": "17:15",
+            "day": "2"
+        },
+        "Mumbai": {
+            "days": [
+                "Tu"
+            ],
+            "arrival": "22:40",
+            "departure": "22:45",
+            "day": "2"
+        },
+        "Vadodara": {
+            "days": [
+                "Tu"
+            ],
+            "arrival": "05:13",
+            "departure": "05:31",
+            "day": "3"
+        },
+        "Ratlam": {
+            "days": [
+                "Tu"
+            ],
+            "arrival": "09:10",
+            "departure": "09:15",
+            "day": "3"
+        },
+        "Kota": {
+            "days": [
+                "Tu"
+            ],
+            "arrival": "12:50",
+            "departure": "12:56",
+            "day": "3"
+        },
+        "New Delhi": {
+            "days": [
+                "Tu"
+            ],
+            "arrival": "19:40",
+            "departure": "--",
+            "day": "3"
+        }
+    },
+    "22204": {
+        "Vijayawada": {
+            "days": [
+                "M",
+                "W",
+                "Sa"
+            ],
+            "arrival": "01:05",
+            "departure": "01:15",
+            "day": "2"
+        },
+        "Visakhapatnam": {
+            "days": [
+                "M",
+                "W",
+                "Sa"
+            ],
+            "arrival": "06:30",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12219": {
+        "Pune": {
+            "days": [
+                "W",
+                "Sa"
+            ],
+            "arrival": "02:05",
+            "departure": "02:10",
+            "day": "2"
+        },
+        "Solapur": {
+            "days": [
+                "W",
+                "Sa"
+            ],
+            "arrival": "05:57",
+            "departure": "06:00",
+            "day": "2"
+        },
+        "Secunderabad": {
+            "days": [
+                "W",
+                "Sa"
+            ],
+            "arrival": "11:06",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12224": {
+        "Kozhikkode": {
+            "days": [
+                "W",
+                "Su"
+            ],
+            "arrival": "02:47",
+            "departure": "02:50",
+            "day": "2"
+        },
+        "Mangalore": {
+            "days": [
+                "W",
+                "Su"
+            ],
+            "arrival": "06:10",
+            "departure": "06:20",
+            "day": "2"
+        },
+        "Madgaon": {
+            "days": [
+                "W",
+                "Su"
+            ],
+            "arrival": "12:50",
+            "departure": "13:00",
+            "day": "2"
+        },
+        "Ratnagiri": {
+            "days": [
+                "W",
+                "Su"
+            ],
+            "arrival": "17:11",
+            "departure": "17:15",
+            "day": "2"
+        },
+        "Mumbai": {
+            "days": [
+                "W",
+                "Su"
+            ],
+            "arrival": "23:56",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12214": {
+        "Jhansi": {
+            "days": [
+                "M"
+            ],
+            "arrival": "04:20",
+            "departure": "04:25",
+            "day": "2"
+        },
+        "Bhopal": {
+            "days": [
+                "M"
+            ],
+            "arrival": "08:20",
+            "departure": "08:25",
+            "day": "2"
+        },
+        "Balharshah": {
+            "days": [
+                "M"
+            ],
+            "arrival": "16:56",
+            "departure": "17:00",
+            "day": "2"
+        },
+        "Secunderabad": {
+            "days": [
+                "M"
+            ],
+            "arrival": "21:15",
+            "departure": "21:31",
+            "day": "2"
+        },
+        "Guntakal": {
+            "days": [
+                "M"
+            ],
+            "arrival": "02:58",
+            "departure": "03:00",
+            "day": "3"
+        },
+        "Bengaluru": {
+            "days": [
+                "M"
+            ],
+            "arrival": "07:55",
+            "departure": "--",
+            "day": "3"
+        }
+    },
+    "12213": {
+        "Guntakal": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "03:45",
+            "departure": "03:50",
+            "day": "2"
+        },
+        "Secunderabad": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "08:56",
+            "departure": "09:10",
+            "day": "2"
+        },
+        "Balharshah": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "13:31",
+            "departure": "13:35",
+            "day": "2"
+        },
+        "Bhopal": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "21:20",
+            "departure": "21:25",
+            "day": "2"
+        },
+        "Jhansi": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "01:15",
+            "departure": "01:20",
+            "day": "3"
+        },
+        "New Delhi": {
+            "days": [
+                "Sa"
+            ],
+            "arrival": "07:00",
+            "departure": "--",
+            "day": "3"
+        }
+    },
+    "12267": {
+        "Ahmedabad": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "05:55",
+            "departure": "06:15",
+            "day": "2"
+        },
+        "Surendranagar": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "08:24",
+            "departure": "08:34",
+            "day": "2"
+        },
+        "Rajkot": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "10:56",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12266": {
+        "Ludhiana": {
+            "days": [
+                "M",
+                "W",
+                "Sa"
+            ],
+            "arrival": "23:15",
+            "departure": "23:25",
+            "day": "1"
+        },
+        "New Delhi": {
+            "days": [
+                "M",
+                "W",
+                "Sa"
+            ],
+            "arrival": "04:20",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12239": {
+        "Vadodara": {
+            "days": [
+                "Tu",
+                "Su"
+            ],
+            "arrival": "03:52",
+            "departure": "04:05",
+            "day": "2"
+        },
+        "Ratlam": {
+            "days": [
+                "Tu",
+                "Su"
+            ],
+            "arrival": "07:35",
+            "departure": "07:40",
+            "day": "2"
+        },
+        "Sawai Madhopur": {
+            "days": [
+                "Tu",
+                "Su"
+            ],
+            "arrival": "12:10",
+            "departure": "12:20",
+            "day": "2"
+        },
+        "Jaipur": {
+            "days": [
+                "Tu",
+                "Su"
+            ],
+            "arrival": "14:35",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "02286": {
+        "Jhansi": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "20:22",
+            "departure": "20:27",
+            "day": "1"
+        },
+        "Bhopal": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "00:01",
+            "departure": "00:06",
+            "day": "2"
+        },
+        "Nagpur": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "05:15",
+            "departure": "05:20",
+            "day": "2"
+        },
+        "Balharshah": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "08:10",
+            "departure": "08:15",
+            "day": "2"
+        },
+        "Secunderabad": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "14:00",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "02201": {
+        "Kharagpur": {
+            "days": [
+                "M",
+                "W",
+                "F"
+            ],
+            "arrival": "22:15",
+            "departure": "22:20",
+            "day": "1"
+        },
+        "Bhubaneswar": {
+            "days": [
+                "M",
+                "W",
+                "F"
+            ],
+            "arrival": "03:30",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "22210": {
+        "Kota": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "04:15",
+            "departure": "04:25",
+            "day": "2"
+        },
+        "Ratlam": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "07:30",
+            "departure": "07:35",
+            "day": "2"
+        },
+        "Vadodara": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "11:10",
+            "departure": "11:20",
+            "day": "2"
+        },
+        "Mumbai": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "16:15",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12273": {
+        "Asansol": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "10:56",
+            "departure": "11:00",
+            "day": "1"
+        },
+        "Jasidih": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "12:25",
+            "departure": "12:27",
+            "day": "1"
+        },
+        "Patna": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "16:20",
+            "departure": "16:31",
+            "day": "1"
+        },
+        "Varanasi": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "20:13",
+            "departure": "20:23",
+            "day": "1"
+        },
+        "kanpur": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "00:40",
+            "departure": "00:45",
+            "day": "2"
+        },
+        "New Delhi": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "06:25",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12220": {
+        "Solapur": {
+            "days": [
+                "Tu",
+                "F"
+            ],
+            "arrival": "03:57",
+            "departure": "04:00",
+            "day": "2"
+        },
+        "Pune": {
+            "days": [
+                "Tu",
+                "F"
+            ],
+            "arrival": "07:50",
+            "departure": "07:55",
+            "day": "2"
+        },
+        "Mumbai": {
+            "days": [
+                "Tu",
+                "F"
+            ],
+            "arrival": "11:06",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "02246": {
+        "Renigunta": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F",
+                "Su"
+            ],
+            "arrival": "16:50",
+            "departure": "17:00",
+            "day": "1"
+        },
+        "Vijayawada": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F",
+                "Su"
+            ],
+            "arrival": "22:20",
+            "departure": "22:31",
+            "day": "1"
+        },
+        "Vizianagram": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F",
+                "Su"
+            ],
+            "arrival": "04:30",
+            "departure": "04:40",
+            "day": "2"
+        },
+        "Bhubaneswar": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F",
+                "Su"
+            ],
+            "arrival": "09:50",
+            "departure": "10:00",
+            "day": "2"
+        },
+        "Kolkata": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F",
+                "Su"
+            ],
+            "arrival": "16:45",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12297": {
+        "Mumbai": {
+            "days": [
+                "M",
+                "Th",
+                "Su"
+            ],
+            "arrival": "03:50",
+            "departure": "03:55",
+            "day": "2"
+        },
+        "Lonavla": {
+            "days": [
+                "M",
+                "Th",
+                "Su"
+            ],
+            "arrival": "06:05",
+            "departure": "06:07",
+            "day": "2"
+        },
+        "Pune": {
+            "days": [
+                "M",
+                "Th",
+                "Su"
+            ],
+            "arrival": "07:10",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "02285": {
+        "Balharshah": {
+            "days": [
+                "Th",
+                "Su"
+            ],
+            "arrival": "18:06",
+            "departure": "18:11",
+            "day": "1"
+        },
+        "Nagpur": {
+            "days": [
+                "Th",
+                "Su"
+            ],
+            "arrival": "21:00",
+            "departure": "21:06",
+            "day": "1"
+        },
+        "Bhopal": {
+            "days": [
+                "Th",
+                "Su"
+            ],
+            "arrival": "02:15",
+            "departure": "02:20",
+            "day": "2"
+        },
+        "Jhansi": {
+            "days": [
+                "Th",
+                "Su"
+            ],
+            "arrival": "05:30",
+            "departure": "05:35",
+            "day": "2"
+        },
+        "New Delhi": {
+            "days": [
+                "Th",
+                "Su"
+            ],
+            "arrival": "10:40",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12290": {
+        "Bhusaval": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "01:20",
+            "departure": "01:25",
+            "day": "2"
+        },
+        "Igatpuri": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "05:10",
+            "departure": "05:15",
+            "day": "2"
+        },
+        "Mumbai": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "08:06",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "02213": {
+        "Asansol": {
+            "days": [
+                "M",
+                "W",
+                "F"
+            ],
+            "arrival": "01:08",
+            "departure": "01:12",
+            "day": "2"
+        },
+        "Patna": {
+            "days": [
+                "M",
+                "W",
+                "F"
+            ],
+            "arrival": "06:40",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12270": {
+        "Gwalior": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "19:09",
+            "departure": "19:11",
+            "day": "1"
+        },
+        "Jhansi": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "20:22",
+            "departure": "20:27",
+            "day": "1"
+        },
+        "Bhopal": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "23:59",
+            "departure": "00:04",
+            "day": "2"
+        },
+        "Nagpur": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "05:15",
+            "departure": "05:20",
+            "day": "2"
+        },
+        "Balharshah": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "08:10",
+            "departure": "08:15",
+            "day": "2"
+        },
+        "Vijayawada": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "14:20",
+            "departure": "14:25",
+            "day": "2"
+        },
+        "Chennai": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "20:40",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12265": {
+        "Ludhiana": {
+            "days": [
+                "Tu",
+                "F",
+                "Su"
+            ],
+            "arrival": "02:45",
+            "departure": "02:55",
+            "day": "2"
+        },
+        "Jammu Tawi": {
+            "days": [
+                "Tu",
+                "F",
+                "Su"
+            ],
+            "arrival": "07:25",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12264": {
+        "Kota": {
+            "days": [
+                "M",
+                "Th"
+            ],
+            "arrival": "15:20",
+            "departure": "15:31",
+            "day": "1"
+        },
+        "Ratlam": {
+            "days": [
+                "M",
+                "Th"
+            ],
+            "arrival": "18:36",
+            "departure": "18:40",
+            "day": "1"
+        },
+        "Vadodara": {
+            "days": [
+                "M",
+                "Th"
+            ],
+            "arrival": "22:29",
+            "departure": "22:38",
+            "day": "1"
+        },
+        "Mumbai": {
+            "days": [
+                "M",
+                "Th"
+            ],
+            "arrival": "03:50",
+            "departure": "03:55",
+            "day": "2"
+        },
+        "Lonavla": {
+            "days": [
+                "M",
+                "Th"
+            ],
+            "arrival": "06:04",
+            "departure": "06:08",
+            "day": "2"
+        },
+        "Pune": {
+            "days": [
+                "M",
+                "Th"
+            ],
+            "arrival": "07:10",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12289": {
+        "Igatpuri": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "22:25",
+            "departure": "22:31",
+            "day": "1"
+        },
+        "Bhusaval": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "02:00",
+            "departure": "02:05",
+            "day": "2"
+        },
+        "Nagpur": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "Th",
+                "F",
+                "Sa",
+                "Su"
+            ],
+            "arrival": "07:20",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12240": {
+        "Sawai Madhopur": {
+            "days": [
+                "Tu",
+                "Th"
+            ],
+            "arrival": "20:56",
+            "departure": "21:06",
+            "day": "1"
+        },
+        "Ratlam": {
+            "days": [
+                "Tu",
+                "Th"
+            ],
+            "arrival": "01:50",
+            "departure": "01:55",
+            "day": "2"
+        },
+        "Vadodara": {
+            "days": [
+                "Tu",
+                "Th"
+            ],
+            "arrival": "05:20",
+            "departure": "05:30",
+            "day": "2"
+        },
+        "Mumbai": {
+            "days": [
+                "Tu",
+                "Th"
+            ],
+            "arrival": "10:50",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "22209": {
+        "Vadodara": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "03:52",
+            "departure": "04:05",
+            "day": "2"
+        },
+        "Ratlam": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "07:35",
+            "departure": "07:40",
+            "day": "2"
+        },
+        "kota": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "10:25",
+            "departure": "10:31",
+            "day": "2"
+        },
+        "New Delhi": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "16:31",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12227": {
+        "Vadodara": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "03:52",
+            "departure": "04:05",
+            "day": "2"
+        },
+        "Ratlam": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "07:25",
+            "departure": "07:30",
+            "day": "2"
+        },
+        "Ujjain": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "08:50",
+            "departure": "08:56",
+            "day": "2"
+        },
+        "Indore": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12281": {
+        "Balasore": {
+            "days": [
+                "W"
+            ],
+            "arrival": "10:44",
+            "departure": "10:49",
+            "day": "1"
+        },
+        "Adra": {
+            "days": [
+                "W"
+            ],
+            "arrival": "14:56",
+            "departure": "15:00",
+            "day": "1"
+        },
+        "Varanasi": {
+            "days": [
+                "W"
+            ],
+            "arrival": "20:45",
+            "departure": "20:56",
+            "day": "1"
+        },
+        "Kanpur": {
+            "days": [
+                "W"
+            ],
+            "arrival": "00:50",
+            "departure": "00:55",
+            "day": "2"
+        },
+        "New Delhi": {
+            "days": [
+                "W"
+            ],
+            "arrival": "06:25",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12294": {
+        "Satna": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "22:00",
+            "departure": "22:11",
+            "day": "1"
+        },
+        "Jabalpur": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "00:35",
+            "departure": "00:45",
+            "day": "2"
+        },
+        "Bhusaval": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "08:56",
+            "departure": "09:00",
+            "day": "2"
+        },
+        "Igatpuri": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "12:31",
+            "departure": "12:35",
+            "day": "2"
+        },
+        "Mumbai": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "14:56",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12263": {
+        "Lonavla": {
+            "days": [
+                "Tu",
+                "F"
+            ],
+            "arrival": "11:58",
+            "departure": "12:00",
+            "day": "1"
+        },
+        "Mumbai": {
+            "days": [
+                "Tu",
+                "F"
+            ],
+            "arrival": "14:35",
+            "departure": "14:40",
+            "day": "1"
+        },
+        "Vadodara": {
+            "days": [
+                "Tu",
+                "F"
+            ],
+            "arrival": "18:34",
+            "departure": "18:45",
+            "day": "1"
+        },
+        "Ratlam": {
+            "days": [
+                "Tu",
+                "F"
+            ],
+            "arrival": "22:11",
+            "departure": "22:15",
+            "day": "1"
+        },
+        "Kota": {
+            "days": [
+                "Tu",
+                "F"
+            ],
+            "arrival": "01:00",
+            "departure": "01:10",
+            "day": "2"
+        },
+        "New Delhi": {
+            "days": [
+                "Tu",
+                "F"
+            ],
+            "arrival": "06:55",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12262": {
+        "Tatanagar": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "F"
+            ],
+            "arrival": "11:33",
+            "departure": "11:43",
+            "day": "1"
+        },
+        "Bilaspur": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "F"
+            ],
+            "arrival": "17:36",
+            "departure": "17:45",
+            "day": "1"
+        },
+        "Nagpur": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "F"
+            ],
+            "arrival": "23:15",
+            "departure": "23:20",
+            "day": "1"
+        },
+        "Bhusaval": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "F"
+            ],
+            "arrival": "03:42",
+            "departure": "03:47",
+            "day": "2"
+        },
+        "Igatpuri": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "F"
+            ],
+            "arrival": "07:40",
+            "departure": "07:45",
+            "day": "2"
+        },
+        "Mumbai": {
+            "days": [
+                "M",
+                "Tu",
+                "W",
+                "F"
+            ],
+            "arrival": "10:31",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "02214": {
+        "Asansol": {
+            "days": [
+                "Tu",
+                "Th",
+                "Sa"
+            ],
+            "arrival": "01:56",
+            "departure": "02:01",
+            "day": "2"
+        },
+        "Kolkata": {
+            "days": [
+                "Tu",
+                "Th",
+                "Sa"
+            ],
+            "arrival": "05:40",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12274": {
+        "Kanpur": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "17:48",
+            "departure": "17:54",
+            "day": "1"
+        },
+        "Varanasi": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "22:11",
+            "departure": "22:20",
+            "day": "1"
+        },
+        "Patna": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "01:10",
+            "departure": "01:20",
+            "day": "2"
+        },
+        "Jasidih": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "05:06",
+            "departure": "05:09",
+            "day": "2"
+        },
+        "Asansol": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "07:35",
+            "departure": "07:40",
+            "day": "2"
+        },
+        "Kolkata": {
+            "days": [
+                "Tu",
+                "Sa"
+            ],
+            "arrival": "10:40",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12261": {
+        "Igatpuri": {
+            "days": [
+                "Tu",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "19:25",
+            "departure": "19:31",
+            "day": "1"
+        },
+        "Bhusaval": {
+            "days": [
+                "Tu",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "23:00",
+            "departure": "23:06",
+            "day": "1"
+        },
+        "Nagpur": {
+            "days": [
+                "Tu",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "04:10",
+            "departure": "04:15",
+            "day": "2"
+        },
+        "Bilaspur": {
+            "days": [
+                "Tu",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "09:56",
+            "departure": "10:06",
+            "day": "2"
+        },
+        "Tatanagar": {
+            "days": [
+                "Tu",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "15:56",
+            "departure": "16:06",
+            "day": "2"
+        },
+        "Kolkata": {
+            "days": [
+                "Tu",
+                "W",
+                "Th",
+                "Su"
+            ],
+            "arrival": "19:50",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12260": {
+        "Sri Dungargarah": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F"
+            ],
+            "arrival": "13:09",
+            "departure": "13:10",
+            "day": "1"
+        },
+        "Ratangarh": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F"
+            ],
+            "arrival": "13:50",
+            "departure": "13:52",
+            "day": "1"
+        },
+        "Churu": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F"
+            ],
+            "arrival": "14:36",
+            "departure": "14:40",
+            "day": "1"
+        },
+        "Sadulpur": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F"
+            ],
+            "arrival": "15:25",
+            "departure": "15:27",
+            "day": "1"
+        },
+        "Loharu": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F"
+            ],
+            "arrival": "16:08",
+            "departure": "16:11",
+            "day": "1"
+        },
+        "New Delhi": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F"
+            ],
+            "arrival": "19:15",
+            "departure": "19:40",
+            "day": "1"
+        },
+        "Kanpur": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F"
+            ],
+            "arrival": "00:29",
+            "departure": "00:34",
+            "day": "2"
+        },
+        "Varanasi": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F"
+            ],
+            "arrival": "04:33",
+            "departure": "04:43",
+            "day": "2"
+        },
+        "Dhanbad": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F"
+            ],
+            "arrival": "08:58",
+            "departure": "09:03",
+            "day": "2"
+        },
+        "Kolkata": {
+            "days": [
+                "M",
+                "Tu",
+                "Th",
+                "F"
+            ],
+            "arrival": "12:45",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12228": {
+        "Ujjain": {
+            "days": [
+                "F",
+                "Su"
+            ],
+            "arrival": "00:15",
+            "departure": "00:20",
+            "day": "2"
+        },
+        "Ratlam": {
+            "days": [
+                "F",
+                "Su"
+            ],
+            "arrival": "01:50",
+            "departure": "01:55",
+            "day": "2"
+        },
+        "Vadodara": {
+            "days": [
+                "F",
+                "Su"
+            ],
+            "arrival": "05:20",
+            "departure": "05:30",
+            "day": "2"
+        },
+        "Mumbai": {
+            "days": [
+                "F",
+                "Su"
+            ],
+            "arrival": "10:50",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12222": {
+        "Tatanagar": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "11:33",
+            "departure": "11:43",
+            "day": "1"
+        },
+        "Bilaspur": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "17:36",
+            "departure": "17:45",
+            "day": "1"
+        },
+        "Nagpur": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "23:15",
+            "departure": "23:20",
+            "day": "1"
+        },
+        "Bhusaval": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "03:42",
+            "departure": "03:47",
+            "day": "2"
+        },
+        "Manmad": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "06:00",
+            "departure": "06:04",
+            "day": "2"
+        },
+        "Daund": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "10:00",
+            "departure": "10:15",
+            "day": "2"
+        },
+        "Pune": {
+            "days": [
+                "Th",
+                "Sa"
+            ],
+            "arrival": "11:45",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "12269": {
+        "Vijayawada": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "12:20",
+            "departure": "12:31",
+            "day": "1"
+        },
+        "Balharshah": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "18:06",
+            "departure": "18:11",
+            "day": "1"
+        },
+        "Nagpur": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "21:00",
+            "departure": "21:06",
+            "day": "1"
+        },
+        "Bhopal": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "02:18",
+            "departure": "02:20",
+            "day": "2"
+        },
+        "Jhansi": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "05:30",
+            "departure": "05:35",
+            "day": "2"
+        },
+        "Gwalior": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "06:51",
+            "departure": "06:53",
+            "day": "2"
+        },
+        "New Delhi": {
+            "days": [
+                "M",
+                "F"
+            ],
+            "arrival": "10:40",
+            "departure": "--",
+            "day": "2"
+        }
+    },
+    "": {
+        "": {
+            "days": [
+                "/"
+            ],
+            "arrival": "",
+            "departure": "",
+            "day": ""
+        }
+    }
+}
