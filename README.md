@@ -1,4 +1,5 @@
 # TrainStation
+Created Virtual Environment and activated it.
 
 Installing Dependencies:
 pip install fastapi uvicorn
